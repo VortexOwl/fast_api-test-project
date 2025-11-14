@@ -1,0 +1,7 @@
+__pycache__/
+.venv/
+databases/
+logs/
+src/__pycache__/
+src/api/__pycache__/
+src/schemas/__pycache__/
